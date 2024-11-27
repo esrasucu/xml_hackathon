@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<data>
+  <aek>
+    <baslik>Açık Eğitim Kaynakları</baslik>
+    <anahtar_kelimeler> Açık, Eğitim, Kaynaklar, Ücretsiz, Lisans</anahtar_kelimeler>
+    <ozet_bilgi>Açık eğitim kaynakları, açık öğrenmeden biraz daha farklıdır. Açık öğrenmede hem içerik hem de eğitim hizmetleri (özel olarak tasarlanmış çevrimiçi materyaller, bütünleşik öğrenci desteği ve değerlendirme gibi) söz konusuyken, açık eğitim kaynakları aslen içeriğin kendisidir.</ozet_bilgi>
+    <olusturan>Esra Sucu</olusturan>
+    <lisans>Açık Lisans</Lisans>
+    <dil>TR</dil>
+    <url>https://https://github.com/esrasucu/</url>
+  </aek>
+    <aek>
+    <baslik>Başlık 1</baslik>
+    <anahtar_kelimeler>Kelimeler1</anahtar_kelimeler>
+    <ozet_bilgi>Özet1</ozet_bilgi>
+    <olusturan>Oluşturan1</olusturan>
+    <lisans>Açık Lisans 1</Lisans>
+    <dil>TR 1</dil>
+    <url>Url1/</url>
+  </aek>
+</data>
